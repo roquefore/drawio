@@ -1,7 +1,5 @@
 # drawio
 
-A test repo for CLI tooling.
-
 ## How HTTPS Works
 
 **HTTPS** secures communication between a client and server using **TLS**:
