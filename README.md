@@ -1,3 +1,3 @@
 # drawio
 
-A test repository for CLI tooling.
+A test repo for CLI tooling.
